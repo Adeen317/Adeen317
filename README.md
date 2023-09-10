@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### "Enthusiastic about technology, engineering solutions, and always eager to learn" 
-####🚀💻 #ComputerSystemsEngineer
+#### 🚀💻 #ComputerSystemsEngineer
 
 <!--
 **Adeen317/Adeen317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
