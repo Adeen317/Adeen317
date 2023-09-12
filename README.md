@@ -1,6 +1,6 @@
-### Hi there 👋
 
-#### Enthusiastic about technology, engineering solutions, and always eager to learn🚀💻 
+
+#### Enthusiastic about technology, engineering solutions, and always open to learn🚀💻 
 #### #ComputerSystemsEngineer
 
 <!--
