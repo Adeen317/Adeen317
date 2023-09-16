@@ -1,7 +1,9 @@
 
-
-#### Enthusiastic about technology, engineering solutions, and always open to learn🚀💻 
+#### Hi! This Adeen. 
+#### I am a Computer Systems Engineer💻
+#### I am Enthusiastic about technology, engineering solutions, and always open to learn🚀💻 
 #### #ComputerSystemsEngineer
+![1_xNQKHj5vR7w9AcY_bDKYYw](https://github.com/Adeen317/Adeen317/assets/112985225/b4ab7042-2d50-4165-a8ed-6492c5b505a3)
 
 <!--
 **Adeen317/Adeen317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
