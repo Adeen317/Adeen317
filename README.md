@@ -3,6 +3,7 @@
 ##### I am a Computer Systems Engineer👨‍💻
 ##### Always Enthusiastic about technology, engineering solutions, and always open to learn🚀💻 
 ![giphy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659)
+![1_xNQKHj5vR7w9AcY_bDKYYw](https://github.com/Adeen317/Adeen317/assets/112985225/1d4d6a87-5a0e-4fa9-97f2-20fe6318b049)
 
 ##### #ComputerSystemsEngineer
 <!--
