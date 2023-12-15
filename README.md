@@ -1,6 +1,5 @@
-![background](https://github.com/Adeen317/Adeen317/assets/112985225/cdf48770-20b8-412e-b826-6d6043899f9a)
-
-![giphy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659)
+![gi![Background](https://github.com/Adeen317/Adeen317/assets/112985225/d96213e8-b72e-4429-863d-91e42767a008)
+phy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659)
 
 ##### #ComputerSystemsEngineer
 <!--
