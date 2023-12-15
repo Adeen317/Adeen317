@@ -1,7 +1,5 @@
+![background](https://github.com/Adeen317/Adeen317/assets/112985225/cdf48770-20b8-412e-b826-6d6043899f9a)
 
-#### Hi! This is Adeen👋
-##### I am a Computer Systems Engineer👨‍💻
-##### Always Enthusiastic about technology, engineering solutions, and always open to learn🚀💻 
 ![giphy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659)
 
 ##### #ComputerSystemsEngineer
