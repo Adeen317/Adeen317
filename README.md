@@ -8,10 +8,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Adeen317&count_public=true&&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=60% ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeen317&count_private=true&theme=radical" width="35%">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeen317&theme=radical"  width=60% />
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Adeen317&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Adeen317&count_public=true&&count_private=true&show_icons=true&theme=apprentice&&include_all_commits=true" width=60% ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeen317&count_private=true&theme=apprentice" width="35%">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeen317&theme=apprentice"  width=60% />
 
 <p align="center"> 
   Visitor count<br>
