@@ -1,7 +1,7 @@
 
-![Background](https://github.com/Adeen317/Adeen317/assets/112985225/46571416-976e-4715-9917-4b23fdfb68d7)
+![back](https://github.com/Adeen317/Adeen317/assets/112985225/7b1c06ef-e7e8-4f95-a21a-32a1dfbc49fb)
 
-<img width="40%" src=![giphy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659) align="right" />
+<img width="40%" src=(https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659) align="right" />
 
 ![giphy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659)
 
