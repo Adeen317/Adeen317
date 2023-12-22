@@ -1,10 +1,14 @@
 
 ![Background](https://github.com/Adeen317/Adeen317/assets/112985225/46571416-976e-4715-9917-4b23fdfb68d7)
 
+<img width="40%" src="![giphy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659" align="right" />
 
-![giphy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659)
+![giphy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659
 
 ##### #ComputerSystemsEngineer
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 ## &#x1f4c8; GitHub Stats
 
