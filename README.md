@@ -12,7 +12,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeen317&theme=apprentice"  width=60% /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeen317&count_private=true&theme=apprentice" width="35%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adeen317&count_public=true&&count_private=true&show_icons=true&theme=apprentice&&include_all_commits=true" width=60% >
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeen317&theme=apprentice"  width=60% /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeen317&count_private=true&theme=apprentice" width="30%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adeen317&count_public=true&&count_private=true&show_icons=true&theme=apprentice&&include_all_commits=true" width=60% >
 
 <p align="center">Visitor count<br><img src="https://profile-counter.glitch.me/Adeen317/count.svg" /></p>
 <!--
