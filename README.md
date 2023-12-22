@@ -3,7 +3,6 @@
 
 <img width="40%" src="https://ruya.studio/assets/images/dev.webp" align="right" />
 
-![giphy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659)
 
 ##### #ComputerSystemsEngineer
 
