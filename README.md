@@ -1,7 +1,7 @@
 
 ![back (2)](https://github.com/Adeen317/Adeen317/assets/112985225/3c1954b6-0889-47ee-ae5f-2773d957dd7d)
 
-<img width="40%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw15vLGrhkPC4OOC4XeJaGMR&ust=1703342869254000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjw4-Oko4MDFQAAAAAdAAAAABAE" align="right" />
+<img width="40%" src="https://ruya.studio/assets/images/dev.webp" align="right" />
 
 ![giphy](https://github.com/Adeen317/Adeen317/assets/112985225/8b510a5b-c9fa-4cf9-bae3-c35b075dd659)
 
