@@ -1,7 +1,7 @@
 
 ![back (2)](https://github.com/Adeen317/Adeen317/assets/112985225/3c1954b6-0889-47ee-ae5f-2773d957dd7d)
 
-![](https://komarev.com/ghpvc/?username=Adeen317&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Adeen317&style=for-the-badge)
 
 <img width="40%" src="https://ruya.studio/assets/images/dev.webp" align="right" />
 
