@@ -8,7 +8,7 @@
 ##### #ComputerSystemsEngineer
 
 📧 You can contact me at : muhammadadeen317@gmail.com
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-adeen-661932184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad adeen" height="30" width="40" /></a>
 <a href="https://fb.com/adeen.ishaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad adeen" height="30" width="40" /></a>
