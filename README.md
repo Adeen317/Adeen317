@@ -20,7 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,mysql,html,css,opencv,django,flask,tensorflow)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp,git,github,pycharm,vscode,arduino,raspberrypi,autocad,discord)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,mysql,html,css,opencv,django,flask,tensorflow,cpp,git,github,pycharm,vscode,arduino,raspberrypi,autocad,discord,sklearn,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,tailwind)](https://skillicons.dev)
 
 
 ## &#x1f4c8; GitHub Stats
