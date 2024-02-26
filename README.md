@@ -16,7 +16,7 @@
 
 
 <!--<h3 align="left">Languages and Tools:</h3>-->
-## Languages and Tools
+## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,matlab,mysql,html,css,opencv,django,flask,tensorflow,cpp,git,github,pycharm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,arduino,raspberrypi,autocad,discord,sklearn,tailwind)](https://skillicons.dev)
 
