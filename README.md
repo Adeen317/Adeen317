@@ -28,6 +28,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
+[![My account](https://camo.githubusercontent.com/92f34b2cec0e047256185020e8f961e9578b4ea3a96def8aaa2301b72e20566e/68747470733a2f2f7265706f62656174732e6178696f6d2e636f2f6170692f656d6265642f366266636132663230663339373338303438623665373063613230356566646534363335326333642e737667)
+
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeen317&theme=apprentice"  width=60% /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeen317&count_private=true&theme=apprentice" width="30%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adeen317&count_public=true&&count_private=true&show_icons=true&theme=apprentice&&include_all_commits=true" width=60% >
 
 
