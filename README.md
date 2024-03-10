@@ -7,6 +7,8 @@
 
 ##### #ComputerSystemsEngineer
 
+#### You can access my portfolio and projects at this [link](https://adeen317.github.io/My-Portfolio/)
+
 #### 📧 You can contact me at : muhammadadeen317@gmail.com
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -15,7 +17,6 @@
 <a href="https://www.hackerrank.com/profile/adeenishaq234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammad adeen" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="muhammad adeen" height="30" width="40" /></a>
   
-#### You can access my portfolio and projects at this [link](https://adeen317.github.io/My-Portfolio/)
 
 
 
