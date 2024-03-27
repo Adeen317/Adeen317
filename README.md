@@ -28,13 +28,13 @@
 
 <!--<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.autodesk.com/" target="_blank" rel="noreferrer"> <img src="https://5.imimg.com/data5/CJ/JY/RR/SELLER-43556904/item-2356550-943.png" alt="oracle" width="40" height="40"/> </a> <a href="https://sourceforge.net/projects/circuit/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logisim-icon.svg/2048px-Logisim-icon.svg.png" alt="oracle" width="40" height="40"/> </a></p>-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adeen317&theme=dark&utcOffset=8)
+
 ## Contribution 
 
 ## &#x1f4c8; GitHub Stats
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeen317&theme=apprentice"  width=60% /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeen317&layout=compact&theme=apprentice" width="30%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adeen317&count_public=true&&count_private=true&show_icons=true&theme=apprentice&&include_all_commits=true" width=60% >
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adeen317&theme=dark&utcOffset=8)
 
 <!--
 <p align="center">Visitor count<br>
