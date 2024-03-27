@@ -32,8 +32,7 @@
 ## Contribution 
 
 ## &#x1f4c8; GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adeen317&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adeen317&theme=dark&utcOffset=8)
+
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adeen317&theme=dark"  width=60% /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adeen317&theme=dark&utcOffset=8" width="30%">
 
 
