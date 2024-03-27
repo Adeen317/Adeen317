@@ -32,6 +32,7 @@
 ## Contribution 
 
 ## &#x1f4c8; GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeonGamerBot-QK&theme=dark)
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeen317&theme=apprentice"  width=60% /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeen317&layout=compact&theme=apprentice" width="30%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adeen317&count_public=true&&count_private=true&show_icons=true&theme=apprentice&&include_all_commits=true" width=60% >
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adeen317&theme=dark&utcOffset=8)
