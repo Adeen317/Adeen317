@@ -7,7 +7,7 @@
 
 ##### #ComputerSystemsEngineer
 
-#### You can access my portfolio and projects at this [link](https://adeen317.github.io/My-Portfolio/)
+#### You can access my portfolio and projects at this [link](https://adeen317.github.io/My-Portfolio/) here.
 
 #### 📧 You can contact me at : muhammadadeen317@gmail.com
 <h2 align="left">Connect with me:</h2>
